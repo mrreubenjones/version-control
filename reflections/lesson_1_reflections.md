@@ -17,7 +17,7 @@ The syntax was perhaps a little obtuse, but it works in a pinch.
 
 ### What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 
-*Pros of manual commits**
+**Pros of manual commits**
 - Logical review points
 - You can make the commits more/less granular when working on varying levels of complexity
 - It's less messy
@@ -40,6 +40,8 @@ Use `git diff commitID1 commitID2` to compare the differences between two commit
 ### How might using version control make you more confident to make changes that could break something?
 
 Obviously, you don't have the fear that you're not going to be able to recover your old code, so all new efforts will either push you forward, or you can "rewind" back to your last clean version. It's similar to playing computer games, where you save your progress to a point you're happy with, then do whatever you like, knowing that you can always come back and restart from your saved position. :)
+
+It gives you more creative freedom, unleashing your brain by removing your inhibitions based on failure.
 
 
 
